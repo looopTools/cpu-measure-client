@@ -1,0 +1,9 @@
+#ifdef _WIN32
+
+#elif __APPLE__
+
+#elif UNIX
+
+#else
+#   error "Unknown compiler"
+#endif

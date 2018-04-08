@@ -1,0 +1,15 @@
+#include "../experiment"
+
+namespace cpu_measure_client
+{
+namespace experiments
+{
+namespace threads
+{
+class spawning_thread : experiment
+{
+
+};
+}
+}
+}

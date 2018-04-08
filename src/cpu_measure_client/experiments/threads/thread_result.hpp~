@@ -1,0 +1,15 @@
+#include <chrono>
+
+namespace cpu_measure_client
+{
+namespace experiments
+{
+namespace threads
+{
+class thread_result
+{
+    thread_result()
+}
+}
+}
+}
